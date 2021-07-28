@@ -1,10 +1,12 @@
-<style>
-    p {
-    text-align: center;
-    }
-</style>
+<p align="center">
+<img width="400"
+     alt="Nothing to see here/Homer Simpson (from The Simpsons) recedes backwards into a hedge" 
+     src="https://memecrunch.com/meme/BQRMS/nothing-to-see-here/image.gif">
+</p>
 
-![Nothing to see here/Homer Simpson (from The Simpsons) recedes backwards into a hedge](https://memecrunch.com/meme/BQRMS/nothing-to-see-here/image.gif?w=400&c=1)
+<!-- 
+![Nothing to see here/Homer Simpson (from The Simpsons) recedes backwards into a hedge](https://memecrunch.com/meme/BQRMS/nothing-to-see-here/image.gif?w=400&c=1) 
+-->
 
 <!--
 **Drezeilez/Drezeilez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
